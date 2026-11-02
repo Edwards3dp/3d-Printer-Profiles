@@ -1,0 +1,6 @@
+*.bin
+*.hex
+.pio/
+.vscode/
+build/
+*.log
